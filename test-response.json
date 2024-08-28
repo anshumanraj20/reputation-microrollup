@@ -1,0 +1,1580 @@
+{
+    "data": {
+      "account": {
+        "id": "0x4125caf9dd93ec6ad7a4c668ec55102f8f18203a",
+        "depositCount": 0,
+        "liquidateCount": 0,
+        "openPositionCount": 12,
+        "closedPositionCount": 30,
+        "repayCount": 0,
+        "transferredCount": 0,
+        "borrowCount": 0,
+        "liquidationCount": 0,
+        "borrows": [
+          {
+            "id": "0x009aaa2f5b88abd420ecc7099233356e0db1b2bf6b2fba76fa568830e72517474200000002000000",
+            "amount": "500000000000",
+            "amountUSD": "500000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x00e3ad98679e518c757979c1515610ef336c404b825fdc72150f012c300534162100000002000000",
+            "amount": "900000000000000000000000",
+            "amountUSD": "905903.1174223747189556151408611262",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x033248c86d843248795ac3824f03ea678c2e3d98c1cb70c5b24405510c7aedf24a01000002000000",
+            "amount": "2500000000000",
+            "amountUSD": "2460743.97184086797064936827311088",
+            "asset": {
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x03b489221ea271fec540c3d4e58e3375f61470008289943c39ced05888a00edb9900000002000000",
+            "amount": "125000000000",
+            "amountUSD": "125000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x03c174ea8180113173d47c03b793956aa7d0064f84aefac66ee11c668db96dda5401000002000000",
+            "amount": "282270000000000000000000",
+            "amountUSD": "284448.7056410595119505494505494505",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x03e78536272cb579fb678af294cf7d1d9ccad2bcd1c3211ffb659c909349cbb36901000002000000",
+            "amount": "750000000000",
+            "amountUSD": "752513.7947689650630095282701286535",
+            "asset": {
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x057bf99761488ae972159f290fbc62117ad4cb142c1a75d512bf8079172756567900000002000000",
+            "amount": "131715000000",
+            "amountUSD": "132145.4417005658908385252478016283",
+            "asset": {
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x05a5d9c3c3a5cbf665cca5f063b8c2b5d546595eea0456fa7ec6993005d26a572100000002000000",
+            "amount": "43501462074808714000",
+            "amountUSD": "58973.17656372448913108538025411009",
+            "asset": {
+              "name": "Wrapped Ether",
+              "symbol": "WETH",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x0628daa9002dd1e0c0a4fd2b3ac2ce1e9de3ced47547cfa36c8faeee4a7994874600000002000000",
+            "amount": "175000000000",
+            "amountUSD": "175000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x07973240c2bac760e8fcb61f2fd056dcf3fea1484f24dfad3ab8bec18fa7ba241e00000002000000",
+            "amount": "50000000000",
+            "amountUSD": "50000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x0992e858b7767a51a5cc8c38fb2f681e001d20adf29de2e0c5ab2b33253a24d17200000002000000",
+            "amount": "350000000000",
+            "amountUSD": "350000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x0a24376eb64a6a2b320450d4b967a80fba9b63d85bc00e2801254e5b56ddd2045c00000002000000",
+            "amount": "100000000000",
+            "amountUSD": "100000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x0bb417ee40c38296c4c5a2ad76d0d75a9f39a1116fd2f4eae465db2faa6ecac87300000002000000",
+            "amount": "113351379371182526248184",
+            "amountUSD": "113370.0889134633370688413732082166",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x0c1e17fdce5969c3b123b83a79f51ba77a0220993a1fec5599f60dac3892e561e900000002000000",
+            "amount": "29535000000",
+            "amountUSD": "29839.96743715201619706428209886958",
+            "asset": {
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x0c6dbb47ce3e9c67cf50d54d1647c8d896df84a1111ce1618f7026f5ae89819fe700000002000000",
+            "amount": "20000000000000000000000",
+            "amountUSD": "583008.1473866299792826281928649146",
+            "asset": {
+              "name": "ChainLink Token",
+              "symbol": "LINK",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x0d492e046eaae2e8b16435f9cd3533eeda8172d3fa5a8593735ec60ca740a1d58101000002000000",
+            "amount": "2200000000000000000",
+            "amountUSD": "51999.67262263214451258357970339019",
+            "asset": {
+              "name": "yearn.finance",
+              "symbol": "YFI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x0d941509368b6662848c207ad3090f382fc12739c22c673708f0a01a40b88d585200000002000000",
+            "amount": "2000000000000",
+            "amountUSD": "2000000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x0dbaab0482c25dac645d26d1b981bee429938267b6e6a186b1580e8063762df10601000002000000",
+            "amount": "52500000000000000000000",
+            "amountUSD": "1574518.790100824931255728689275894",
+            "asset": {
+              "name": "ChainLink Token",
+              "symbol": "LINK",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x0dbeccaf036345fb6e149be0fe8e10347b9817faf407c01909f025bdda4efed25000000002000000",
+            "amount": "750000000000",
+            "amountUSD": "748645.519058343602600603407980283",
+            "asset": {
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x0e292428ce0bee4a0641ec75ac7ae86c40642611da3395d2ea095f1784d15ea76801000002000000",
+            "amount": "500000000000",
+            "amountUSD": "502848.8550198100477475607224413535",
+            "asset": {
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x0e7262dfcbd09dabe726d102bd56cd7f735f088720cc59916bf89079789f3407fc00000002000000",
+            "amount": "173295000000",
+            "amountUSD": "173295",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x0eb0e435171a4c0a8bfe4e2c2f857eee3851c4ebeef1944f5f6c9ed08c5f4cf31301000002000000",
+            "amount": "250000000000",
+            "amountUSD": "250000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x101aa8dd535a2e65adbd81c00263ad6f0c255e098edd42ccaf8cb3994a25eb529a00000002000000",
+            "amount": "415000000",
+            "amountUSD": "80484.29909283989346713199927391633",
+            "asset": {
+              "name": "Wrapped BTC",
+              "symbol": "WBTC",
+              "decimals": 8
+            }
+          },
+          {
+            "id": "0x10b27f91fdc5874e5aa8c3292978342dd3b16143f310c4529a792553eb341a895f00000002000000",
+            "amount": "150000000000",
+            "amountUSD": "150000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x11ade2561f237d140587cfaa5be3bfc66738d957f4743b3a7118b6eea5551025d500000002000000",
+            "amount": "491550000000",
+            "amountUSD": "490243.4821000101699807557387959316",
+            "asset": {
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x11e39fdd05cf4f0150c9dbb761b2296efd50d41d8208716cb33613ca4d1492930701000002000000",
+            "amount": "300000000000",
+            "amountUSD": "300000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x1201f06323f36800d3c23b461ad55ca3f84f86caacb579145afc3befd30e40da4401000002000000",
+            "amount": "200000000000000000000000",
+            "amountUSD": "201241.9584781400242816673411574262",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x14c15f19da9305da0c9b3fffffc3b726c0a717fba1af52f0d1f52cc0e59dde6a3e00000002000000",
+            "amount": "2500000000000",
+            "amountUSD": "2492722.343436195280169851507271547",
+            "asset": {
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x15078ea59c26c1b28055c9ea3c6c7676a2e05fee91748ed5aa362aac8b6019a07200000002000000",
+            "amount": "500000000000",
+            "amountUSD": "500000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x1680c369b640bc24adde0870674b803144f6bcd9218f413cb7ad7e7bbc293a98d500000002000000",
+            "amount": "300000000000000000000",
+            "amountUSD": "722879.1450208892247176642663311554",
+            "asset": {
+              "name": "Wrapped Ether",
+              "symbol": "WETH",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x1696565f0f7c3175bcf3bad3509eccbe2ea6ee39cdd92602c869cb1fc942aed10c01000002000000",
+            "amount": "250000000000",
+            "amountUSD": "250000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x16b321cac12071b2e6ef1339edf5f3ea0dfdb49ee51f3493b46471080c7da6164000000002000000",
+            "amount": "250000000000000000000000",
+            "amountUSD": "249851.5531484100956278403801850696",
+            "asset": {
+              "name": "TrueUSD",
+              "symbol": "TUSD",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x17f720fbb1dc9d8f210f98eb2d82207a64507bed053e2357abcc7cf22e26db6b3a00000002000000",
+            "amount": "10000000000000",
+            "amountUSD": "10004117.39042747941367401775446566",
+            "asset": {
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x1b7ff28ef231489a7f4b99bf24a8839b6e6ff38e03e34482f78d8f245770fc4ca600000002000000",
+            "amount": "175000000000",
+            "amountUSD": "175000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x1b8009f99847db85b47cf0407e7e261a3116b45e391c1b93d5c193518c667a631502000002000000",
+            "amount": "282270000000",
+            "amountUSD": "282270",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x1bd632a253b169daa25d0db2b4142a24edc8ec8ea1f35ba36e90b31c77e3b7264300000002000000",
+            "amount": "273407141667",
+            "amountUSD": "273407.141667",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x1be0ba1529b2d05150a8af5b6653c1a423666624e0be083de8c24daa30f648429700000002000000",
+            "amount": "50000000000",
+            "amountUSD": "50000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x1e7533affb03d6a17452688c8f85a8764a9755422ebe93e5db525e5938c8e8fd7100000002000000",
+            "amount": "800000000000",
+            "amountUSD": "800000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x1e7f9f6efa20de1b891dfd7abe294a38018c682ef03fa11c5c4d86f3626784312600000002000000",
+            "amount": "2800000000000",
+            "amountUSD": "2823125.457123538494919600833138947",
+            "asset": {
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x1e9634f64934e350fd7b4e98c31a48c3978e63d42ba0e59b6dd73d900cb60cb36a00000002000000",
+            "amount": "150000000000000000000000",
+            "amountUSD": "149617.3814898419864559819413092551",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x20e3c227b6c38bc948a74058ad98c08182074cdd11d8f5df8716d7e5d2e4ee107900000002000000",
+            "amount": "51000000000",
+            "amountUSD": "51000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x21b6328bb5bc4bb24443c998ba636d5813ae472471b2eea05d62a2bf3ef2ea07d900000002000000",
+            "amount": "16000000000000000000",
+            "amountUSD": "520864.7821518905246773461313963293",
+            "asset": {
+              "name": "yearn.finance",
+              "symbol": "YFI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x21e3798f97c8098c4387511021fcea0923759f8c639d4e6592b17388ca11544ddb00000002000000",
+            "amount": "250000000000000000000000",
+            "amountUSD": "250639.0073211086629041328610112615",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x232024d78ea480c3a5cf75f231e0e2f948c2ffc316c6f5d9406fbb9bd87adc458800000002000000",
+            "amount": "250000000000",
+            "amountUSD": "250000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x233d3430d94cf32057f3bcab5c1f643e457d4a9a11950425942e9d191a3696a4c800000002000000",
+            "amount": "250000000000",
+            "amountUSD": "250000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x23f0cd1fb16d3a02eb2e0c9db10a40c3c5c262dc42b6460e680e52acc59a83a79700000002000000",
+            "amount": "100000000000",
+            "amountUSD": "100000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x24ac127b2f6cb0c3fc75ab2cca94994e86c850ad529ad1d18b7d9a1e65d923e91601000002000000",
+            "amount": "1500000000000000000000000",
+            "amountUSD": "1502015.897673391353430290724152215",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x250025747c591bc29d91b2a5d85c8edbea7c45b9ecbac5b89dbb1fd72eae22708800000002000000",
+            "amount": "250000000000000000000000",
+            "amountUSD": "249341.3711877014629308207289858666",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x2522b7078cb934cb47010a186dc49ba27d7cba33c6e6326f785d9aa9aeebfe602b00000002000000",
+            "amount": "750000000000000000000000",
+            "amountUSD": "754919.2645186455991296792840509385",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x252bf0e04180ec50e0fa41290eb1a84071eb1d52eb87edad13296165116ce6fab200000002000000",
+            "amount": "50000000000000000000000",
+            "amountUSD": "1642699.142759270592078819202122752",
+            "asset": {
+              "name": "ChainLink Token",
+              "symbol": "LINK",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x2533e5ddfc1553f29c210e3f4e3ccca83f0cf96bf1472b6c1d09213fe473dfa0a700000002000000",
+            "amount": "80000000000",
+            "amountUSD": "79996.5943937737503901867308292489",
+            "asset": {
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x2672989162c3cea40e1001677a21d1f5526f8aea06b84b15100eee0b0091742cb700000002000000",
+            "amount": "250000000000000000000000",
+            "amountUSD": "249341.3711877014629308207289858666",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x26fb2f016cf86cbd47e7a76b03ecc2024a17502d5e329c7c9b57b05fcf1a83992501000002000000",
+            "amount": "750000000000000000000000",
+            "amountUSD": "751581.1466222763926895162756433665",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x28ab040197b4c67f23aab59f627728de6a5fee4a0b72a681ddb45b5facadc2b81e00000002000000",
+            "amount": "76050000000",
+            "amountUSD": "76050",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x28b4ec10b070eee44548154bb2f820edc1ab9a9c498c417e4e3afd3f568e20857a00000002000000",
+            "amount": "18000000000000000000",
+            "amountUSD": "680073.0594500458295142071494042163",
+            "asset": {
+              "name": "yearn.finance",
+              "symbol": "YFI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x28cde23a52c319698bde586b9ef8871457863f253ca966892c629674cd9196844200000002000000",
+            "amount": "3000000000000",
+            "amountUSD": "3000000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x2918dca4fb09f256227a532df028e3efbb661ab922cb38f2a871c56af9f592fb8200000002000000",
+            "amount": "250000000000000000000000",
+            "amountUSD": "249436.5444721296420011075413565197",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x291e3b6351c550583080357ff4eba748517833b69293d2482963a9569a46ce15ad00000002000000",
+            "amount": "1400000000000",
+            "amountUSD": "1400000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x2965efa9b3b97638fd36b57ee05717ffaca23052db3f1ed6b0c5e6040165e98b0601000002000000",
+            "amount": "2500000000000",
+            "amountUSD": "2458868.01272876339971667277251748",
+            "asset": {
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x29baa983d4f189d66303a9c9518b84dee119501a48d2c568664fee1be5eee6318d00000002000000",
+            "amount": "199000000000",
+            "amountUSD": "199544.0560326832400279916025192442",
+            "asset": {
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x29ef52cc2eccb68f9796e67d7607bb48abff510d2eb02dea6f2c40165566fdd21301000002000000",
+            "amount": "64000000000",
+            "amountUSD": "63744.1092692445056141604020940949",
+            "asset": {
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x2a0ef4b8c7fe839756c8e383fa9ed1235e51399792585b5273d2440436bdf4fead00000002000000",
+            "amount": "10000000000000000000000",
+            "amountUSD": "320839.0361376748321363921850843445",
+            "asset": {
+              "name": "Uniswap",
+              "symbol": "UNI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x2a0f9cc8b6e39a0530fe115583d3442e741451dbbccca289401187e916d834854e00000002000000",
+            "amount": "650000000000",
+            "amountUSD": "650000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x2cb31342792fcc4a6e4d2c6f43fcc28b852288f6d07a93e5ba0fbfa8f1edc4ff2800000002000000",
+            "amount": "2000000000000000000000000",
+            "amountUSD": "1988077.641225670229388235086742974",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x2ed194ae7308bbda79d8f883cac23ce1a0df4f3ce750183518088ec64d2005d44000000002000000",
+            "amount": "250000000000",
+            "amountUSD": "250000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x2fcfdd76d2c01101fcbd09906c0adf08da8ebc344486ae0d6159522f421686aef301000002000000",
+            "amount": "60000000000",
+            "amountUSD": "60000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x3031d4c578a8157d258bc9765f7e91172411af5af7b17d15f8a2d46015bea4e45c00000002000000",
+            "amount": "250000000000",
+            "amountUSD": "250000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x305d88e55ff93aa36252a20733d183e0b01b00e63cf93fadcd215b425b61fd0a4c00000002000000",
+            "amount": "2151818580177",
+            "amountUSD": "2163086.368484313725490196078431373",
+            "asset": {
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x30b6a5b4c38bd08a54645ef44615a1d0c2c1c2a9a1c9688c7f1e415426b2019e7300000002000000",
+            "amount": "8000000000000",
+            "amountUSD": "7989256.953578175718186003397536249",
+            "asset": {
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x336b25ef27132f1892dd1fdcf62c3b01a7eb3137a4c69b07f23123eaa4110e1a9100000002000000",
+            "amount": "20000000000000000000",
+            "amountUSD": "733195.325267403121164299491495704",
+            "asset": {
+              "name": "yearn.finance",
+              "symbol": "YFI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x34a3607f817586b691dbe957faaf68c5c27b89b6906a5ff97d22a30e70cbb96a8800000002000000",
+            "amount": "250000000000",
+            "amountUSD": "250000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x386e70f98b0bcfe9b69de22bb0e9f964cee326d0e5e440003f280627f4dac0ff5100000002000000",
+            "amount": "1500000000000000000000000",
+            "amountUSD": "1501895.696349175955195936702523797",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x398024b5137eed83de4b2981f639376d25ee2c8b07b46682a89f3b5d315194273d00000002000000",
+            "amount": "500000000000",
+            "amountUSD": "500000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x39953a3a6e8c772a17b9a5710e7a53ee54b312a8cada192b0e7698807e9dcbff8402000002000000",
+            "amount": "4000000000000000000000",
+            "amountUSD": "4180.123257453371801614548720863068",
+            "asset": {
+              "name": "Curve DAO Token",
+              "symbol": "CRV",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x3c1d7fda51ec3aefa64977c73f60a0663b3b00289114f2614e755e8ffca6729b4c00000002000000",
+            "amount": "500000000000000000000000",
+            "amountUSD": "501457.952638266837539999052811616",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x3e6405cd2b0b0200d8a6d4b859bf6c82d9f4b72cf7b22dade198e40a5575db742a00000002000000",
+            "amount": "2500000000000",
+            "amountUSD": "2492722.343436195280169851507271547",
+            "asset": {
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x3ef1b4ded55f34bedfbee621072be0d26b14056f6a79fe74b2d953907966bcb16b00000002000000",
+            "amount": "250000000000",
+            "amountUSD": "250000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x4017c24c66196d12a0bd8aefbfc673773084c7a21b0d2fe155be3495804617535800000002000000",
+            "amount": "850000000000",
+            "amountUSD": "850000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x41b9c5523f512b364e115d12d3a7146635b3ce6cef36c9cfff5feea02fac6355bb00000002000000",
+            "amount": "20000000000",
+            "amountUSD": "20000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x423f3a2260bfa0181ff541c312028cbba5163bee925b751cb4bdafade8aa22a80d00000002000000",
+            "amount": "90000000000000000000000",
+            "amountUSD": "89987.87225441315186632529308718501",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x4285eb79a94c974365fed47e6bcd5311bf11a38728f415180acacf5de7e94e045a00000002000000",
+            "amount": "500000000000000000000000",
+            "amountUSD": "500157.6994434137291280148423005565",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x44d7d72b20205616d0ce3035bb509cbbada0cd2ec9c81ef45d4dd263cfb8c7570e00000002000000",
+            "amount": "1066475000000",
+            "amountUSD": "1066475",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x4603c39b945885127fa67994328e41bc7016a447ee11d23fa29d16487f36efdd8200000002000000",
+            "amount": "14000000000000000000",
+            "amountUSD": "509134.3328530384191571230862904954",
+            "asset": {
+              "name": "yearn.finance",
+              "symbol": "YFI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x46270d6e64311ee2385ffdf403844fd28e511e3254ef934fb97bf59af32228515600000002000000",
+            "amount": "200000000000",
+            "amountUSD": "200000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x467c2272b7509ffe0d1bec59e440b31b5bb9a8dc7f174d97f416c58729df2a8b0f01000002000000",
+            "amount": "123789000000",
+            "amountUSD": "123789",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x48775d0b4981beeef7dd4078537231bbaa0b303ff75806da4b733581cc9a9b0cae01000002000000",
+            "amount": "250000000000",
+            "amountUSD": "250000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x48f6119493929d560ebcff8a902e19c8a53fd07df697a04a32af3b14136de30ae900000002000000",
+            "amount": "20000000000000000000",
+            "amountUSD": "655020.5726295640539334959220459266",
+            "asset": {
+              "name": "yearn.finance",
+              "symbol": "YFI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x4a4b0c5736099dc9849ed322c02a9cadeab7547f1be1ecf3f9a32bdabe769924d400000002000000",
+            "amount": "100000000000",
+            "amountUSD": "100797.7493688777501257383750921898",
+            "asset": {
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x4c949b811d64063d3ecbdfe89177954ba057f14325d6c2c63363d167f6a468c36200000002000000",
+            "amount": "30000000000",
+            "amountUSD": "30031.31817390955204304241337312794",
+            "asset": {
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x4f57599900e4a8ebf5e1976a4e8a40fadf9eeb8ef87381d34853ca2e706c11c0e200000002000000",
+            "amount": "300000000000",
+            "amountUSD": "300000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x4f9f284d81df2accd9a54f6e9741713683cef06386891c462bb5e28b08456b070600000002000000",
+            "amount": "750000000000000000000000",
+            "amountUSD": "750879.9839776527301035539719151813",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x4fa16cfcfed543f9f7aec44d9676e3fbd47b8009b8515052fc25449e9e118bb67000000002000000",
+            "amount": "350000000000",
+            "amountUSD": "349214.205901284320544317833773951",
+            "asset": {
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x52404114bd27aed2ebee2827d88660918db348d6fa2024237e6ee3c5d57f942b3200000002000000",
+            "amount": "105000000000000000000",
+            "amountUSD": "2550413.503784496193593519451624562",
+            "asset": {
+              "name": "yearn.finance",
+              "symbol": "YFI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x53205f95ddb345637907a4bff475185190d8cf4284f356b0e61f4c514c35a8214301000002000000",
+            "amount": "28500000000000000000000",
+            "amountUSD": "27167.40826395338906925484426068968",
+            "asset": {
+              "name": "Curve DAO Token",
+              "symbol": "CRV",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x53a920c15f1f88ba276ca260aa67af71449c65d60eef9fda520d3b879d35d423a300000002000000",
+            "amount": "282270000000",
+            "amountUSD": "284986.1533679929980082417582417583",
+            "asset": {
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x5417816fb871c30fc34283432e447f525e61c83f1c3705d8d6a768fcdb5783792901000002000000",
+            "amount": "500000000000",
+            "amountUSD": "500139.116983271973890323656618003",
+            "asset": {
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x56325bbdb505cac95059dac1759e1c6bd191c90cf0b6da61930e4927ae504a49b000000002000000",
+            "amount": "732768786811",
+            "amountUSD": "732768.786811",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x57a137cebd49fedfd3f43d5a4f3a65f667b3719f472c7fed1e5b929f4915beee3900000002000000",
+            "amount": "50000000000000000000000",
+            "amountUSD": "50226.3109915748993015382933696944",
+            "asset": {
+              "name": "TrueUSD",
+              "symbol": "TUSD",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x59441c3223e80e3a6b5b487dc90cf096974131f6ef4590b795473fed03c883873b00000002000000",
+            "amount": "1000000000000",
+            "amountUSD": "1000000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x5a3c2333e056ff742e2c2e9e31221cd50049e7d856e1d4dcfb7ae558633097a52b00000002000000",
+            "amount": "9000000000",
+            "amountUSD": "9000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          }
+        ],
+        "liquidations": [],
+        "repays": [
+          {
+            "id": "0x0c65b7c6b2c0efb800ba342f24e817edc034c8416e71bb708c81bf6e409547001301000003000000",
+            "amount": "335193495533",
+            "amountUSD": "335193.495533",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x0cd6bf18f24110294026cbeb30a94471bbf7ffc9d9ca1bd922e77ad21af2c8db3d00000003000000",
+            "amount": "394953301038",
+            "amountUSD": "394953.301038",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x10e221597a9ce351d396d4e747f224e91f829de41b836b87b5bb4963821c56c56300000003000000",
+            "amount": "499847601598",
+            "amountUSD": "499847.601598",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x14ad62f28eb29b0663fb1525323e1ca0329e798a31b1c87e5be523d3d8803c461d00000003000000",
+            "amount": "300004599139",
+            "amountUSD": "300004.599139",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x1771410b5639453ce100a9b0247703455a8c155586508aa78d6ea48453b6d0de2b00000003000000",
+            "amount": "838987712669",
+            "amountUSD": "838987.712669",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x18bce31e241f0f41f16a0f3ab1e7a9a0e58b5c1e210b7beab6245f53e9b5111aa600000003000000",
+            "amount": "995000000000",
+            "amountUSD": "995000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x2541c4a223ebcdff21d0d2e7dcd3a73fa5a2c32bbf7c79baba5fe763e37ec06e8f00000003000000",
+            "amount": "17096400408557837245254",
+            "amountUSD": "17069.60392617514794955984727781173",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x2c411e6c77c750af0b83880360b80eb27438b2d3eb75b38ff94cb60ba45672377100000003000000",
+            "amount": "300144387892",
+            "amountUSD": "300144.387892",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x2dec23ba83cc5e074e8cf4dd0f56983c905aff917e70908500dbf1f04abd6fcbb200000003000000",
+            "amount": "1195158296061288188649090",
+            "amountUSD": "1195838.519727853084193260710709166",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x315d7087cac9cf196e9d04c55b25bf52fb138a0e1cd023832ca975db610dd89b5700000003000000",
+            "amount": "144666090487024611777682",
+            "amountUSD": "145639.6483281165767861444870367551",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x4184e245e6c933d24272c321142e27705180bc2b6ead2c67fae42254fd903a5f1601000003000000",
+            "amount": "1204013389015445154283455",
+            "amountUSD": "1201232.757632037659700814226327945",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x44cb09b9abb1e6591df648a3fd664306c2db1b6312d35cc671df4fc603cb1a252000000003000000",
+            "amount": "2005626929286353587289453",
+            "amountUSD": "1997023.16056324150696426704903589",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x450c0e0c746c7ee652ec86ccdedcaae90e0a9e784e45d14c64690f2683b92d543a00000003000000",
+            "amount": "888924283668807148957382",
+            "amountUSD": "893344.2425927284401482045509422199",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x4961eae7dd49cfce8627681248aff91ffad57b924bfefb69d41d2a935f71e7a13700000003000000",
+            "amount": "300000000000000000000000",
+            "amountUSD": "300773.6221408242722710324914571206",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x505ce927908591a6e3804a090ecdcf98f634b1ac64e5fed2da3e716acfdfdd654800000003000000",
+            "amount": "3937517581030245322892304",
+            "amountUSD": "3931346.011695755996460412751331024",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x51fc55b10eaa0380afd9f0c1077491690afab0af5c6b350209cdd1c1979a87186a00000003000000",
+            "amount": "261420888991856687749882",
+            "amountUSD": "262343.4871053841039200601179157151",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x6527c1368c6b21b5f13f01f1d2a589eb277eff30422969bdcd72d714ee8f233c7b00000003000000",
+            "amount": "219290698144",
+            "amountUSD": "219635.3546463152392929263362180471",
+            "asset": {
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x6536dd866bb189e6e46e75949788897cf9cf0e86f2b4d55f533e747643478e1b8900000003000000",
+            "amount": "500000000000",
+            "amountUSD": "500000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x686e17af713614eae17f5f33d00941b9fb4a0b25e1c81faf64989ccfc072399d5200000003000000",
+            "amount": "2167392914090",
+            "amountUSD": "2167392.91409",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x7a246824d1550dd4a9cbec6945163d6c1cdeaecdf3148b76b9dc00fa7b5e1c605f00000003000000",
+            "amount": "6063430247874",
+            "amountUSD": "6063430.247874",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x7bffa00bb8498342e912993478277321c6376aff99f8293dad5fa0e1579c2cdfe300000003000000",
+            "amount": "59274198696275634207752",
+            "amountUSD": "58950.78410245926080206435128485844",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x812352a6a2931b74e9bfe4f4c5f7aa31b69bd9eb14295afb8617a834b97225335a00000003000000",
+            "amount": "2007277318819284596191626",
+            "amountUSD": "2010645.451138697400289785553146177",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x81e0bbb5742349303b875920d997492aa21c96b41440759c260459ceb7aac04e9a00000003000000",
+            "amount": "175000203935",
+            "amountUSD": "175000.203935",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x936bf2a8280b9e6d749e0254f8752aeb7b172c1bb1b27517cd839ef0c01241c03800000003000000",
+            "amount": "82183334298",
+            "amountUSD": "82183.334298",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0x9f798b537d31cd7c1fc7673f2ecbf338e36c1cec6a386eeabe4d84e14c6d33f24f00000003000000",
+            "amount": "2406752315143624304750785",
+            "amountUSD": "2408062.557982763399302537724055802",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0x9fcd30baeb5b68d96c27a780f31b1dd05cf0ef6c3ebdc03ee6b3a30846008ba7a000000003000000",
+            "amount": "500000000000",
+            "amountUSD": "500000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0xa704017e6945fdbb306f591f93906fec507fca4c9c0a557e0c2b8f7e636e682e8000000003000000",
+            "amount": "470999065998",
+            "amountUSD": "470999.065998",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0xa72706e29dce4062fd47fded130aadbc06cb3bd129d438da051661ae53560ade1d01000003000000",
+            "amount": "100054496845",
+            "amountUSD": "100054.496845",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0xa8f0e2e0332a8d3c98f36d0b78724559d53ee0c0fe57c2a608d708f28159f1c83c00000003000000",
+            "amount": "2384773264957162807491302",
+            "amountUSD": "2381035.429316091529350617240017103",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0xaae1c46d067bec367daa15ff54809f95aebe92cdae45cfd1ec4958c8486a5b253b00000003000000",
+            "amount": "500000000000000000000000",
+            "amountUSD": "498291.6508093578364675637307073418",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0xabf0e9d6ef9ee39b7f98c9f9cf4f57716892d59903d90bcf31fdefde3eea2aa14201000003000000",
+            "amount": "185468717250821035762757",
+            "amountUSD": "185304.6355463835668515391608501215",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0xad188a90de5242b4eac1fb3a25c1fdfbcec468bdd3bfe4dc2ed2f54bdc3ee8798500000003000000",
+            "amount": "500000000000000000000000",
+            "amountUSD": "501875.1607451064913859179600080215",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0xb11a15eb11232b38729f54019177526b3789878affdc82d446fe4b9d93f3b5863900000003000000",
+            "amount": "201444415219840037348369",
+            "amountUSD": "201225.2990395148124510714923920654",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0xb9ebd0bd12fd1380d79a0e4ca02a862562dea1a150fd24e74e28fd24eaf863be0a01000003000000",
+            "amount": "200963183926",
+            "amountUSD": "200963.183926",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0xbb5ba5600974f59f6b0e05d048dd5ddae999bc9f79b88a8edcc143b3e3fc94915100000003000000",
+            "amount": "479156796281",
+            "amountUSD": "479156.796281",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0xbbc3d06d237512951b32617d7f562e1bde2aa68ff0d4b84ded01b616e5689db5c000000003000000",
+            "amount": "3611313851229797419872576",
+            "amountUSD": "3585423.521194798870540878538719292",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0xc3d8bd42d42289bf8a9d9fa4338a693a2187c944a8f6ed6d636f9e029c95eb9e7500000003000000",
+            "amount": "238225013073",
+            "amountUSD": "238225.013073",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0xc62355c6e29edecd4a63a6e17844d3dd92868d29bade7ac7a71fd873950ac9157800000003000000",
+            "amount": "987347617364",
+            "amountUSD": "987347.617364",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0xc6e3d56511ac6eda041093f026a5131ac1ba9ab7db22ae49dd5d09774e9f30d5b800000003000000",
+            "amount": "50000000000",
+            "amountUSD": "50000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0xcdceb6f8e83f352b6b1ab521a49de8277ff85b0099962a9ef5ad00a6a5178d07bd00000003000000",
+            "amount": "240935460993259225358636",
+            "amountUSD": "238986.7080941304183339032000929423",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0xcdfc249511acbb075f10b74480dd35068807e61e457dfd31039f243d518b4dad8700000003000000",
+            "amount": "253036066527",
+            "amountUSD": "251209.74947109549242978716811219",
+            "asset": {
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0xd432cdce8dba90d661ab484368fc78f07c54d4c1ab4e83438f25eaabdefe2b1feb00000003000000",
+            "amount": "499753903887",
+            "amountUSD": "499753.903887",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0xd70e1d5acfdd8adcf12748a2dcc832b9c5523a70cd526518b516dd45153e80165f00000003000000",
+            "amount": "300000000000",
+            "amountUSD": "300000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0xe1e8dbd4f534a5d797a5e24e5d60be05e5dca6cc099beadcdbcdd146cc7ada2fc300000003000000",
+            "amount": "1829131759509154471608778",
+            "amountUSD": "1825058.415263711612862974922552812",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0xe565a7c77aa1aa851ebb17203ee8015987deef925cc1944b025f12e8d54454251e00000003000000",
+            "amount": "709931877820",
+            "amountUSD": "709931.87782",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0xe97c32fa10d5ddda07bec6b406829fb2743a225f004fb08ca0e58761096702c8b900000003000000",
+            "amount": "476614897293720324576576",
+            "amountUSD": "477234.0567019126216133857011083567",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0xe9956b3eac3c705bdc77a988ceaa3f524214133bfd328ae2d1b39fa52a1138064400000003000000",
+            "amount": "469495158776",
+            "amountUSD": "469495.158776",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0xec1298b59d9eda0d766b88961ff46ac0d6f2209cc0d25ed74e37f08175d903e47800000003000000",
+            "amount": "501407771746080695656869",
+            "amountUSD": "504417.2438577227655695165409191481",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0xee1617e0e207b422cb15b06e8602757f9da773f9d01b22fb22be1e6a399138d6b700000003000000",
+            "amount": "497891831548",
+            "amountUSD": "497891.831548",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0xf2d0bb1789c7fb2d84ef24f4a24a6a395026ef5e22f13fceec7a40a060843442e800000003000000",
+            "amount": "300000000000",
+            "amountUSD": "300000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0xf4e30e0ea06bfeac7040a65a54517df4db841d3ddc94d1db8dd6fe2488d1df991800000003000000",
+            "amount": "480434715833776523065707",
+            "amountUSD": "479279.7711612097628522229777580171",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0xf6940b50304d887a4cba70d90094547c1f114b888209870172babc64fe51b50c3b00000003000000",
+            "amount": "300000000000000000000000",
+            "amountUSD": "300816.9632234354757687121592681703",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0xf740e951235801bf25a6e7a684ad0a2a552e94c21783f84100abda79aa3da3cfeb00000003000000",
+            "amount": "283673469564686598705722",
+            "amountUSD": "283563.9492971710442154739670412099",
+            "asset": {
+              "name": "Dai Stablecoin",
+              "symbol": "DAI",
+              "decimals": 18
+            }
+          },
+          {
+            "id": "0xfb2d4b2fd6a5ed683569198406e086649a354262ed64459aff61c6d7a187771e5c00000003000000",
+            "amount": "149928596187",
+            "amountUSD": "149928.596187",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0xfdb624290ac0ddbc373d468e7d7fc683bd35ae2ea3ba6d0aa28cf71a4cb86aad6700000003000000",
+            "amount": "900000000000",
+            "amountUSD": "900000",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          },
+          {
+            "id": "0xffe6170ce95d2283ff00ec11158f34970d123294ec386585891bfb691bd42017eb00000003000000",
+            "amount": "489436367216",
+            "amountUSD": "489436.367216",
+            "asset": {
+              "name": "USD Coin",
+              "symbol": "USDC",
+              "decimals": 6
+            }
+          }
+        ]
+      }
+    }
+  }
